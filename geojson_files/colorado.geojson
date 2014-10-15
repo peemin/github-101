@@ -3,9 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "Name": "Colorado, USA"
-        },
+      "properties": {"name": "Colorado, USA"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
